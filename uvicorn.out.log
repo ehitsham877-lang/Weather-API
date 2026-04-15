@@ -1,0 +1,13 @@
+INFO:     127.0.0.1:51262 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51262 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60726 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60726 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51995 - "GET /weather?city=lahore HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:54761 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54761 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53717 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53717 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59645 - "GET /weather?city=Lahore HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:61687 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61687 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61436 - "GET /weather?city=okara HTTP/1.1" 503 Service Unavailable
